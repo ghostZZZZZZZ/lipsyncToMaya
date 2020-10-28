@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////////////////
+// Options.txt - These are the base options that you selected
+//////////////////////////////////////////////////////////////////
+
+You have selected to use Maya 2018
+
+Vendor Name is: lipSync
+
+Verbose Comments OFF
+
+Plug-in type number (0-Empty, 1-MEL, 2-MEL w/Undo, 3-DG Node)
+1
+
+Maya Type Name (Plug-in Name)
+lipSync
+
+Included Libraries:
+Foundation
+OpenMaya
+OpenMayaAnim
