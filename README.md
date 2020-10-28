@@ -13,7 +13,7 @@ https://developer.oculus.com/downloads/package/oculus-lipsync-native/
   1.加载插件
   
   2.选择口型控制器
-  
+  ![image](https://github.com/ghostZZZZZZZ/lipsyncToMaya/blob/main/image/kx.png)
   3.按下lipsync菜单
   
   ![image](https://github.com/ghostZZZZZZZ/lipsyncToMaya/blob/main/image/9396AB67-5E2E-47ff-ADD1-D5F854AB7565.png)
